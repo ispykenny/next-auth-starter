@@ -1,1 +1,1 @@
-`NEXTAUTH_SECRET` = `rand -base64 32`
+`NEXTAUTH_SECRET` = `openssl rand -base64 32`
